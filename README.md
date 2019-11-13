@@ -1,3 +1,3 @@
 # Demo-Merge-Conflicts
 
-by Ramandeep Marwaha 
+by Ramandeep Marwaha
